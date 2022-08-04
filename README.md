@@ -1,4 +1,6 @@
-# Solar Panel Market in Michigan 
+# Target Solar Panel Market in Michigan 
+
+![solar](Visuals/solar.png)
 
 # Overview
 
