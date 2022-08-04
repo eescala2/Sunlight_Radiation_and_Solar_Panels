@@ -34,3 +34,8 @@ Homeownership rate in MI - Census Bureau
 Renewal Energy Sector in MI - Census Bureau
 
 NREL National Solar Radiation Database 1991-2005
+
+
+# Communication Protocols
+
+Team members collaborated using Zoom for meetings, Git Hub for subitting our work and Slack for all other communications outside of meetings.
