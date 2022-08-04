@@ -16,11 +16,11 @@ Our team is interested in discovering our target market for residential solar pa
 # Resources
 
 Data: 
-Cen
 
+Average Household Income MI - Census Bureau
 
-Average Household Income MI
-Homeownership rate in MI
-Renewal Energy Sector in MI
+Homeownership rate in MI - Census Bureau
 
+Renewal Energy Sector in MI - Census Bureau
 
+NREL National Solar Radiation Database 1991-2005
