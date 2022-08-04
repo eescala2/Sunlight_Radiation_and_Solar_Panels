@@ -1,1 +1,14 @@
-# Sunlight_Radiation_and_Solar_Panels
+# Solar Panel Market in Michigan 
+
+# Overview
+
+
+
+# Analaysis
+
+
+
+# Resources
+
+Data: 
+
