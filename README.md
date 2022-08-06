@@ -6,6 +6,8 @@
 
 Our team is interested in discovering our target market for residential solar panels in specific reginal Michigan cities. With solar panels being the cheapest form of clean and renewalable engery, we are looking to focus on areas with ideal solar radiation and a minimum base income to ensure that solar panels are cost effective for the customer.
 
+![key_figures](Visuals/key_figures.png)
+
 
 # Analysis
 
