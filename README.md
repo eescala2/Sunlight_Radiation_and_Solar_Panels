@@ -22,7 +22,10 @@ What is the average solar radiation output for the region?
 Linear Regression
 
 
+# Example Schema
 
+
+![Schema](Visuals/Schema.png)
 
 # Resources
 
@@ -39,4 +42,4 @@ NREL National Solar Radiation Database 2015 - 2020
 
 # Communication Protocols
 
-Team members collaborated using Zoom for meetings, Git Hub for subitting our work and Slack for all other communications outside of meetings.
+Team members collaborated using Zoom for meetings, Git Hub for subitting our work and Slack for all other communications outside of meetings. We also utilized Google Docs for an outline and Google Slides for the presentation.
