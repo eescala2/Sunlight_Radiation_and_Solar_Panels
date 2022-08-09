@@ -24,6 +24,10 @@ Linear Regression
 
 # Example Schema
 
+# Example Schema
+
+
+![Schema](Visuals/Schema.png)
 
 ![Schema](Visuals/Schema.png)
 
