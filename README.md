@@ -8,7 +8,6 @@ Our team is interested in discovering our target market for residential solar pa
 
 ![key_figures](Visuals/key_figures.png)
 
-
 # Analysis
 
 What is the average income for the region?
@@ -23,9 +22,12 @@ What is the average solar radiation output for the region?
 
 Linear Regression
 
+# Example Schema
 
 # Example Schema
 
+
+![Schema](Visuals/Schema.png)
 
 ![Schema](Visuals/Schema.png)
 
