@@ -26,6 +26,10 @@ Linear Regression
 
 ![Schema](Visuals/Schema.png)
 
+# Slides
+
+https://docs.google.com/presentation/d/1LrtH7fWyHEKxciRR_yIGYUzSCKBZ0iV8DgcXWfFzEIY/edit?usp=sharing
+
 # Resources
 
 **Data:** 
