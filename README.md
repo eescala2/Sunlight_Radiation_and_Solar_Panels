@@ -34,6 +34,7 @@ Linear Regression
 
 https://docs.google.com/presentation/d/1LrtH7fWyHEKxciRR_yIGYUzSCKBZ0iV8DgcXWfFzEIY/edit?usp=sharing
 
+
 # Resources
 
 **Data:** 
