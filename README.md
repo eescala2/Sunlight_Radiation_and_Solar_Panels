@@ -15,12 +15,20 @@ The state of Michigan only has incentives in place for homeowners who wish to pu
 # Analysis
 
 What is the average income for the region?
+![Avg  Number of Solar System_Median Income](https://user-images.githubusercontent.com/101475984/184557445-ecf6d96d-57d5-45ff-b29e-63a340a5457e.png)
 
 What is the average of homeownership in the region?
+![Avg  Number of Solar System _ Homeownership Rate](https://user-images.githubusercontent.com/101475984/184557454-039af6d1-146b-4346-a4fe-e9c8b4d35d63.png)
 
 What is the average residential electric use based on region?
 
 What is the average solar radiation output for the region?
+
+What is the eduactional level (Bachelo or higher)
+![Avg Number of Solar System _Educational Level](https://user-images.githubusercontent.com/101475984/184557498-96463900-f12c-46cc-84b8-9d9cec4637cb.png)
+
+What is the population density 
+![Population Density](https://user-images.githubusercontent.com/101475984/184557581-e83b287f-0d91-40e9-8e10-62ab471f13c8.png)
 
 # Machine Learning Model
 
