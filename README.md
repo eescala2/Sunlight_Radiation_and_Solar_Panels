@@ -76,6 +76,7 @@ Renewal Energy Sector in MI - Census Bureau
 
 NREL National Solar Radiation Database 2015 - 2020
 
+DeepSolar by Stanford - https://web.stanford.edu/group/deepsolar/home
 
 # Communication Protocols
 
