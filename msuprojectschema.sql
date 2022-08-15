@@ -311,3 +311,34 @@ CREATE TABLE deep_solar_house_installation_mich(
     daily_solar_radiation FLOAT,
     number_of_solar_system_per_household FLOAT
 );
+
+CREATE TABLE demographic_info_mich(
+    county VARCHAR(50),
+    Median_Income FLOAT,
+    Education_Level FLOAT,
+    Homeownership FLOAT,
+    Population_Density FLOAT
+);
+
+CREATE TABLE complete_deep_solar_and_demographics_mich(
+    tile_count INT NOT NULL,
+    solar_system_count INT NOT NULL,
+    total_panel_area FLOAT NOT NULL,
+    fips VARCHAR(50),
+    county VARCHAR(50),
+    solar_panel_area_divided_by_area FLOAT,
+    solar_panel_area_per_capita FLOAT,
+    tile_count_residential INT,
+    solar_system_count_residential INT,
+    total_panel_area_residential FLOAT,
+    lat FLOAT,
+    lon FLOAT,
+    daily_solar_radiation FLOAT,
+    number_of_solar_system_per_household FLOAT,
+    Median_Income FLOAT,
+    Education_Level FLOAT,
+    Homeownership FLOAT,
+    Population_Density FLOAT
+)
+
+    
