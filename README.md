@@ -16,7 +16,7 @@ The state of Michigan only has incentives in place for homeowners who wish to pu
 
 Does income affect solar panel ownership?
 
-Do different regions have different solar radiation levels in Michigan?
+Is solar radiation levels different based on region in Michigan?
 
 What is the average number of Solar Systems per region?
 
