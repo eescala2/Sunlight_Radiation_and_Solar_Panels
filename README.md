@@ -55,6 +55,12 @@ Our hypothesis is that higher-earning households with more years of education wi
 
 We hypothesized that either Oakland County, due to its higher income per household, or Washtenaw County, due to higher education levels, would be the most piviotal factor in solar adapation.
 
+# Dashboard
+
+![Dashboard](Visuals/Dashboard.png)
+
+https://public.tableau.com/app/profile/safari.nde/viz/TargetResidentialSolarPanelinMichigan/TargetSolarPanelMarketinMI?publish=yes
+
 # Example Schema
 
 ![Schema](Visuals/Schema.png)
