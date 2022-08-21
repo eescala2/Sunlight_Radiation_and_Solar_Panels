@@ -14,13 +14,14 @@ The state of Michigan only has incentives in place for homeowners who wish to pu
 
 # Analysis
 
-What is the average income for the region?
+Does income affect solar panel ownership?
 
-What is the average of homeownership in the region?
+Do different regions have different solar radiation levels in Michigan?
 
-What is the average residential electric use based on region?
+What is the average number of Solar Systems per region?
 
-What is the average solar radiation output for the region?
+Do highly populated regions have more Solar Systems?
+
 
 # Machine Learning Model
 
