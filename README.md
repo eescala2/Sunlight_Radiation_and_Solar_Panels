@@ -4,7 +4,7 @@
 
 # Overview
 
-Our team is interested in discovering our target market for residential solar panels in specific reginal Michigan cities. With solar panels being the cheapest form of clean and renewalable engery, we are looking to focus on areas with ideal solar radiation and a minimum base income to ensure that solar panels are cost effective for the customer.
+Our team is interested in discovering our target market for residential solar panels in specific regional Michigan cities. With solar panels being the cheapest form of clean and renewable energy, we are looking to focus on areas with ideal solar radiation and a minimum base income to ensure that solar panels are cost effective for the customer.
 
 The federal government currently offers a solar tax credit for homeowners who purchase solar panels for their primary, and occasionally secondary, homes. This tax credit allows you to claim a credit of 26% of the cost of your solar panels on your annual taxes. In 2023, the credit amount will be reduced to 22%, and the tax credit will disappear in 2024 unless extended.
 
