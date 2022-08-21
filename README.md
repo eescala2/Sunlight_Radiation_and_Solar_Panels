@@ -4,7 +4,7 @@
 
 # Overview
 
-Our team is interested in discovering our target market for residential solar panels in specific reginal Michigan cities. With solar panels being the cheapest form of clean and renewalable engery, we are looking to focus on areas with ideal solar radiation and a minimum base income to ensure that solar panels are cost effective for the customer.
+Our team is interested in discovering our target market for residential solar panels in specific regional Michigan cities. With solar panels being the cheapest form of clean and renewable energy, we are looking to focus on areas with ideal solar radiation and a minimum base income to ensure that solar panels are cost effective for the customer.
 
 The federal government currently offers a solar tax credit for homeowners who purchase solar panels for their primary, and occasionally secondary, homes. This tax credit allows you to claim a credit of 26% of the cost of your solar panels on your annual taxes. In 2023, the credit amount will be reduced to 22%, and the tax credit will disappear in 2024 unless extended.
 
@@ -14,20 +14,20 @@ The state of Michigan only has incentives in place for homeowners who wish to pu
 
 # Analysis
 
-What is the average income for the region?
+Does income affect solar panel ownership?
+
 ![Avg  Number of Solar System_Median Income](https://user-images.githubusercontent.com/101475984/184557445-ecf6d96d-57d5-45ff-b29e-63a340a5457e.png)
 
-What is the average of homeownership in the region?
+Is solar radiation levels different based on region in Michigan?
+
 ![Avg  Number of Solar System _ Homeownership Rate](https://user-images.githubusercontent.com/101475984/184557454-039af6d1-146b-4346-a4fe-e9c8b4d35d63.png)
 
-What is the average residential electric use based on region?
+Do highly populated regions have more Solar Systems?
 
-What is the average solar radiation output for the region?
-
-What is the eduactional level (Bachelo or higher)
 ![Avg Number of Solar System _Educational Level](https://user-images.githubusercontent.com/101475984/184557498-96463900-f12c-46cc-84b8-9d9cec4637cb.png)
 
-What is the population density 
+What is the average number of Solar Systems per region?
+
 ![Population Density](https://user-images.githubusercontent.com/101475984/184557581-e83b287f-0d91-40e9-8e10-62ab471f13c8.png)
 
 # Machine Learning Model
