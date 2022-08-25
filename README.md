@@ -10,8 +10,11 @@ Our team is interested in discovering our target market for residential solar pa
 # Questions:
 
 •	How does education level affect solar panel ownership?
+
 •	Does home ownership affect the level of solar panel ownership?
+
 •	What is the average number of Solar Panel Systems per region?
+
 •	Do highly populated regions have more Solar Systems?
 
 ![key_figures](Visuals/key_figures.png)
@@ -19,21 +22,16 @@ Our team is interested in discovering our target market for residential solar pa
 
 # Analysis
 
-Does income affect solar panel ownership?
-
-![Avg  Number of Solar System_Median Income](https://user-images.githubusercontent.com/101475984/184557445-ecf6d96d-57d5-45ff-b29e-63a340a5457e.png)
-
-Is solar radiation levels different based on region in Michigan?
-
-![Avg  Number of Solar System _ Homeownership Rate](https://user-images.githubusercontent.com/101475984/184557454-039af6d1-146b-4346-a4fe-e9c8b4d35d63.png)
-
-Do highly populated regions have more Solar Systems?
-
-![Avg Number of Solar System _Educational Level](https://user-images.githubusercontent.com/101475984/184557498-96463900-f12c-46cc-84b8-9d9cec4637cb.png)
-
 What is the average number of Solar Systems per region?
 
 ![pop_density](Visuals/pop_density.png)
+
+## Correlation Analysis 
+
+![Variables](Visuals/Variables.png)
+
+
+Based on the correlation level, the Solar System Count Residential is positively correlated with Median income, educational level, and homeownership. This means that if one of these variables decreases the solar system count residential will decrease. The population density is negatively correlated with the Residential Solar System count this indicates that if the population density increase the Residential Solar system count will decrease.
 
 
 # Machine Learning Model : Linear Regression 
@@ -41,15 +39,6 @@ What is the average number of Solar Systems per region?
 Linear Regression is the supervised Machine Learning model in which the model finds the best fit linear line between the independent and dependent variable. 
 
 ![image](https://user-images.githubusercontent.com/101475984/185814717-4a65d521-3b63-45b2-98dc-83653ea58ce0.png)
-
-Y= bo + b1X1 + b2X2 + b3X3 + b4X4
-
-## Correlation Analysis 
-
-![image](https://user-images.githubusercontent.com/101475984/185814784-23ad4c1f-da8f-4ccf-9905-0c63ca863812.png)
-
-Based on the correlation level, the Solar System Count Residential is positively correlated with Median income, educational level, and homeownership. This means that if one of these variables decreases the solar system count residential will decrease. The population density is negatively correlated with the Residential Solar System count this indicates that if the population density increase the Residential Solar system count will decrease.
-
 ## Regression Results 
 
 ### R-Square 
