@@ -48,6 +48,14 @@ Therefore our dependent variable would be the percentage of households with sola
 ![ml_2](Visuals/ml_2.png)
 ![ml_3](Visuals/ml_3.png)
 
+# Results
+
+•	16 variables were included in our analysis to help provide insight into which factors affected the likelihood of someone installing solar panels living in Michigan.
+•	The variables with the highest correlation to determining our target markets were:
+
+![results_1](Visuals/results_1.png)
+![results_2](Visuals/results_2.png)
+
 # Dashboard
 
 ![Dashboard](Visuals/Dashboard.png)
