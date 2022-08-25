@@ -9,8 +9,6 @@ Our team is interested in discovering our target market for residential solar pa
 
 # Questions:
 
-![key_figures](Visuals/key_figures.png)
-
 •	How does education level affect solar panel ownership?
 
 •	Does home ownership affect the level of solar panel ownership?
@@ -51,16 +49,51 @@ Therefore our dependent variable would be the percentage of households with sola
 # Results
 
 •	16 variables were included in our analysis to help provide insight into which factors affected the likelihood of someone installing solar panels living in Michigan.
+
 •	The variables with the highest correlation to determining our target markets were:
 
 ![results_1](Visuals/results_1.png)
 ![results_2](Visuals/results_2.png)
+
+Y= 0.0077 - 1.812e-06 X1 + 2.549e-05 X2 + 0.009X3 + 0.0092 X4 + 0.0066 X5
+
+X1= Total Panel Area
+
+X2 = Solar Panel area divided by area
+
+X3 = Residential total panel area
+
+X4 = Education level (=>Bachelor Degree)
+
+X5  = Homeownership 
+
+Education and Home Ownership were clearly the largest factors in targeting regions for solar panel installation.
 
 # Dashboard
 
 ![Dashboard](Visuals/Dashboard.png)
 
 https://public.tableau.com/app/profile/safari.nde/viz/TargetResidentialSolarPanelinMichigan/TargetSolarPanelMarketinMI?publish=yes
+
+
+# Recommendations for Future Analysis
+
+**•	Collect More Detailed Data:**
+
+o	Credit Data
+
+o	Acceptance Data
+
+**•	Look at external market factors:**
+
+o	What areas are already highly targeted?
+
+o	What options are there for purchasing the panels? 
+
+**•	More Incentives by the state and federal government**
+
+**•	A database for the number of solar panel installation over the year**
+
 
 
 # Slides
