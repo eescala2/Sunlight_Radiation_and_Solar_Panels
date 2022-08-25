@@ -1,12 +1,21 @@
 # Target-Solar-Panel-Market-in-Michigan
 
+![solar](Visuals/solar.png)
+
+
 # Overview 
 
-Michigan is among the top one-sixth of states in per capita residential energy use, but the state's total energy use per capita is below the U.S. average. The residential sector is the leading energy-consuming sector, accounting for 30% of the state's energy use, followed closely by the transportation sector at 25%, the industrial sector at 24%, and the commercial industry at 22. Renewable energy accounted for about 11% of Michigan's total in-state electricity net generation in 2021. Most of the state's renewable electricity comes from wind, and customer-sited solar photovoltaic (PV) facilities provide almost 50% of the state's total solar power. In 2021, utility-scale (1 megawatt or more extensive) solar installations generated less than 1% of Michigan's total in-state electricity.
+Our team is interested in discovering our target market for residential solar panels in specific regional Michigan cities. With solar panels being the cheapest form of clean and renewable energy, we are looking to focus on areas with ideal solar radiation and a minimum base income to ensure that solar panels are cost effective for the customer.
 
-With the increasing interest and incentives from the federal government to increase the use and generation of renewable energy, there is a need to develop a model that will help predict the residential solar system count in Michigan. The goal of this project is to use data analytics tools, and a machine learning model to build a prediction model of residential solar system count in Michigan based on demographic trends in the following counties: Alpena, Calhoun, Genesee, Gogebic, Grand Traverse, Ingham, Kent, Mackinac, Oakland, Washtenaw, and Wayne. The demographic trends used in this project are median income, educational level (=> Bachelor level), homeownership percentage, and population density. 
+# Questions:
+
+•	How does education level affect solar panel ownership?
+•	Does home ownership affect the level of solar panel ownership?
+•	What is the average number of Solar Panel Systems per region?
+•	Do highly populated regions have more Solar Systems?
 
 ![key_figures](Visuals/key_figures.png)
+
 
 # Analysis
 
@@ -24,7 +33,8 @@ Do highly populated regions have more Solar Systems?
 
 What is the average number of Solar Systems per region?
 
-![Population Density](https://user-images.githubusercontent.com/101475984/184557581-e83b287f-0d91-40e9-8e10-62ab471f13c8.png)
+![pop_density](Visuals/pop_density.png)
+
 
 # Machine Learning Model : Linear Regression 
 
@@ -66,9 +76,6 @@ Therefore our dependent variable would be the percentage of households with sola
 
 https://public.tableau.com/app/profile/safari.nde/viz/TargetResidentialSolarPanelinMichigan/TargetSolarPanelMarketinMI?publish=yes
 
-# Example Schema
-
-![Schema](Visuals/Schema.png)
 
 # Slides
 
@@ -92,4 +99,14 @@ DeepSolar by Stanford - https://web.stanford.edu/group/deepsolar/home
 # Communication Protocols
 
 Team members collaborated using Zoom for meetings, Git Hub for subitting our work and Slack for all other communications outside of meetings. We also utilized Google Docs for an outline and Google Slides for the presentation.
+
+# Team Members:
+
+Eleazar Luis Escalante
+
+Safari NDE
+
+Kimberly Wagner-Dabbour
+
+Kevin Paree
 
