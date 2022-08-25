@@ -9,6 +9,8 @@ Our team is interested in discovering our target market for residential solar pa
 
 # Questions:
 
+![key_figures](Visuals/key_figures.png)
+
 •	How does education level affect solar panel ownership?
 
 •	Does home ownership affect the level of solar panel ownership?
@@ -16,8 +18,6 @@ Our team is interested in discovering our target market for residential solar pa
 •	What is the average number of Solar Panel Systems per region?
 
 •	Do highly populated regions have more Solar Systems?
-
-![key_figures](Visuals/key_figures.png)
 
 
 # Analysis
@@ -34,20 +34,6 @@ What is the average number of Solar Systems per region?
 Based on the correlation level, the Solar System Count Residential is positively correlated with Median income, educational level, and homeownership. This means that if one of these variables decreases the solar system count residential will decrease. The population density is negatively correlated with the Residential Solar System count this indicates that if the population density increase the Residential Solar system count will decrease.
 
 
-# Machine Learning Model : Linear Regression 
-
-Linear Regression is the supervised Machine Learning model in which the model finds the best fit linear line between the independent and dependent variable. 
-
-![image](https://user-images.githubusercontent.com/101475984/185814717-4a65d521-3b63-45b2-98dc-83653ea58ce0.png)
-## Regression Results 
-
-### R-Square 
-
-
-### Variation Inflation Factor (VIF)
-
-### Predicition Model
-
 # Machine Learning Model
 
 The preliminary data investigation began with the premise that we would have to collect three distinct types of data: household data regarding income, education, work experience, et cetera (other factors that could also affect and explain our analysis such as ethnicity), solar data for the state of Michigan (to be then divided by region), and installation of solar panels.  Household data was easily found through the American Community Survey database provided by the Census Bureau. After a preliminary investigationa and discussion, we decided to go with solar irradiance data from the NREL database using their web user interface where we collected data by county using coordinates.
@@ -58,6 +44,9 @@ Our machine learning model is an ordinary least square linear regression. We are
 
 Therefore our dependent variable would be the percentage of households with solar panel installations. Independent variables such as household income, education, ethnicity, solar irradiance data, location characteristics (whether it is urban or rural, or in a more northern region) will be tested to see which model has the highest r-squared value, along with the p-values of each variable.The r-square value will assist in validating the effectiveness of the model and whether it will help characterize the individual most likely to install solar panels.
 
+![ml_1](Visuals/ml_1.png)
+![ml_2](Visuals/ml_2.png)
+![ml_3](Visuals/ml_3.png)
 
 # Dashboard
 
