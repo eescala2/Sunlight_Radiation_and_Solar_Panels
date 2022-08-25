@@ -2,54 +2,35 @@
 
 ![solar](Visuals/solar.png)
 
+
 # Overview 
 
-Michigan is among the top one-sixth of states in per capita residential energy use, but the state's total energy use per capita is below the U.S. average. The residential sector is the leading energy-consuming sector, accounting for 30% of the state's energy use, followed closely by the transportation sector at 25%, the industrial sector at 24%, and the commercial industry at 22. Renewable energy accounted for about 11% of Michigan's total in-state electricity net generation in 2021. Most of the state's renewable electricity comes from wind, and customer-sited solar photovoltaic (PV) facilities provide almost 50% of the state's total solar power. In 2021, utility-scale (1 megawatt or more extensive) solar installations generated less than 1% of Michigan's total in-state electricity.
+Our team is interested in discovering our target market for residential solar panels in specific regional Michigan cities. With solar panels being the cheapest form of clean and renewable energy, we are looking to focus on areas with ideal solar radiation and a minimum base income to ensure that solar panels are cost effective for the customer.
 
-With the increasing interest and incentives from the federal government to increase the use and generation of renewable energy, there is a need to develop a model that will help predict the residential solar system count in Michigan. The goal of this project is to use data analytics tools, and a machine learning model to build a prediction model of residential solar system count in Michigan based on demographic trends in the following counties: Alpena, Calhoun, Genesee, Gogebic, Grand Traverse, Ingham, Kent, Mackinac, Oakland, Washtenaw, and Wayne. The demographic trends used in this project are median income, educational level (=> Bachelor level), homeownership percentage, and population density. 
+# Questions:
 
-![key_figures](Visuals/key_figures.png)
+•	How does education level affect solar panel ownership?
+
+•	Does home ownership affect the level of solar panel ownership?
+
+•	What is the average number of Solar Panel Systems per region?
+
+•	Do highly populated regions have more Solar Systems?
+
 
 # Analysis
 
-Does income affect solar panel ownership?
-
-![Avg  Number of Solar System_Median Income](https://user-images.githubusercontent.com/101475984/184557445-ecf6d96d-57d5-45ff-b29e-63a340a5457e.png)
-
-Is solar radiation levels different based on region in Michigan?
-
-![Avg  Number of Solar System _ Homeownership Rate](https://user-images.githubusercontent.com/101475984/184557454-039af6d1-146b-4346-a4fe-e9c8b4d35d63.png)
-
-Do highly populated regions have more Solar Systems?
-
-![Avg Number of Solar System _Educational Level](https://user-images.githubusercontent.com/101475984/184557498-96463900-f12c-46cc-84b8-9d9cec4637cb.png)
-
 What is the average number of Solar Systems per region?
 
-![Population Density](https://user-images.githubusercontent.com/101475984/184557581-e83b287f-0d91-40e9-8e10-62ab471f13c8.png)
-
-# Machine Learning Model : Linear Regression 
-
-Linear Regression is the supervised Machine Learning model in which the model finds the best fit linear line between the independent and dependent variable. 
-
-![image](https://user-images.githubusercontent.com/101475984/185814717-4a65d521-3b63-45b2-98dc-83653ea58ce0.png)
-
-Y= bo + b1X1 + b2X2 + b3X3 + b4X4
+![pop_density](Visuals/pop_density.png)
 
 ## Correlation Analysis 
 
-![image](https://user-images.githubusercontent.com/101475984/185814784-23ad4c1f-da8f-4ccf-9905-0c63ca863812.png)
+![Variables](Visuals/Variables.png)
+
 
 Based on the correlation level, the Solar System Count Residential is positively correlated with Median income, educational level, and homeownership. This means that if one of these variables decreases the solar system count residential will decrease. The population density is negatively correlated with the Residential Solar System count this indicates that if the population density increase the Residential Solar system count will decrease.
 
-## Regression Results 
-
-### R-Square 
-
-
-### Variation Inflation Factor (VIF)
-
-### Predicition Model
 
 # Machine Learning Model
 
@@ -61,6 +42,32 @@ Our machine learning model is an ordinary least square linear regression. We are
 
 Therefore our dependent variable would be the percentage of households with solar panel installations. Independent variables such as household income, education, ethnicity, solar irradiance data, location characteristics (whether it is urban or rural, or in a more northern region) will be tested to see which model has the highest r-squared value, along with the p-values of each variable.The r-square value will assist in validating the effectiveness of the model and whether it will help characterize the individual most likely to install solar panels.
 
+![ml_1](Visuals/ml_1.png)
+![ml_2](Visuals/ml_2.png)
+![ml_3](Visuals/ml_3.png)
+
+# Results
+
+•	16 variables were included in our analysis to help provide insight into which factors affected the likelihood of someone installing solar panels living in Michigan.
+
+•	The variables with the highest correlation to determining our target markets were:
+
+![results_1](Visuals/results_1.png)
+![results_2](Visuals/results_2.png)
+
+Y= 0.0077 - 1.812e-06 X1 + 2.549e-05 X2 + 0.009X3 + 0.0092 X4 + 0.0066 X5
+
+X1= Total Panel Area
+
+X2 = Solar Panel area divided by area
+
+X3 = Residential total panel area
+
+X4 = Education level (=>Bachelor Degree)
+
+X5  = Homeownership 
+
+Education and Home Ownership were clearly the largest factors in targeting regions for solar panel installation.
 
 # Dashboard
 
@@ -68,9 +75,26 @@ Therefore our dependent variable would be the percentage of households with sola
 
 https://public.tableau.com/app/profile/safari.nde/viz/TargetResidentialSolarPanelinMichigan/TargetSolarPanelMarketinMI?publish=yes
 
-# Example Schema
 
-![Schema](Visuals/Schema.png)
+# Recommendations for Future Analysis
+
+**•	Collect More Detailed Data:**
+
+o	Credit Data
+
+o	Acceptance Data
+
+**•	Look at external market factors:**
+
+o	What areas are already highly targeted?
+
+o	What options are there for purchasing the panels? 
+
+**•	More Incentives by the state and federal government**
+
+**•	A database for the number of solar panel installation over the year**
+
+
 
 # Slides
 
@@ -95,3 +119,12 @@ DeepSolar by Stanford - https://web.stanford.edu/group/deepsolar/home
 
 Team members collaborated using Zoom for meetings, Git Hub for subitting our work and Slack for all other communications outside of meetings. We also utilized Google Docs for an outline and Google Slides for the presentation.
 
+# Team Members:
+
+Eleazar Luis Escalante
+
+Safari NDE
+
+Kimberly Wagner-Dabbour
+
+Kevin Paree
